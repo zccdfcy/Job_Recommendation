@@ -1,4 +1,4 @@
-# Job Hub
+# Job Hub　－　AWS based Web Service for Job Recommendation
 
 Project Link: http://13.114.101.165/jupiter2/#
 
